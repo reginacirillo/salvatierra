@@ -33,7 +33,8 @@
   text-align: center; }
 
 .tipografia {
-  font-family: 'Delius Unicase', cursive; }
+  font-family: 'Delius Unicase', cursive;
+  margin-top: 10%; }
 
 .tipografia2 {
   font-family: 'Bellefair', serif;
@@ -101,9 +102,17 @@
     margin-bottom: 3%;
     border-radius: 0.25rem;
     content: 70%;
-    width: 320px;
-    font-size: small; }
+    width: 290px; }
   .alturaCarousel {
     height: 400px; }
   .tipografia {
-    font-family: 'Delius Unicase', cursive; } }
+    font-family: 'Delius Unicase', cursive; }
+  .tipografia2 {
+    font-size: small; }
+  .nosotros {
+    background-color: #fff;
+    padding: 0%;
+    margin-left: 0%;
+    margin-bottom: 3%;
+    border-radius: 0.25rem;
+    border: 1px solid rgba(0, 0, 0, 0.125); } }
